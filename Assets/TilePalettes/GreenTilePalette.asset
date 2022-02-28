@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8285c39074eea342bd72d786146775c, type: 3}
+  m_Name: GreenTilePalette
+  m_EditorClassIdentifier: 
+  color: 1
+  tileSprites:
+  - {fileID: 21300000, guid: 6cd20f53b1d4c6c41815e988ef23e114, type: 3}
+  - {fileID: 21300000, guid: ec19060883ae09049b9de9f4d3a48c82, type: 3}
+  - {fileID: 21300000, guid: 05338373fd59a534ea0a7daaab3eb379, type: 3}
+  - {fileID: 21300000, guid: b7341329be2e6d94898f9caaedaf67c5, type: 3}
